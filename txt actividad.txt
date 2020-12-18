@@ -1,0 +1,8 @@
+Solo seguí los pasos utilizando comandos git
+
+git init primero para iniciar el nuevo repositorio
+git add . para ir añadiendo los cambios
+git status para ir revisando que cambios aún no han sido añadidos
+git log para ver mis commit's
+git commit -m "Hacer el commit y añadir el mensaje"
+git push -u https://github.com/Alvaroacuna/basic_repo.git para hacer la rama master
